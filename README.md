@@ -36,3 +36,6 @@ Description in construction.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Random%20walker.gif)
 
+
+## Author
+Danny Xie Li
