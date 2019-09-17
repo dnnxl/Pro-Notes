@@ -30,3 +30,9 @@ Description in construction.
 Description in construction. 
 
 ![alt-text](https://github.com/dnnxl/Processing-Notes/blob/master/Images/Circle%20run%20system%203D.gif)
+
+## Random walker
+Description in construction. 
+
+![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Random%20walker.gif)
+
