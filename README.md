@@ -2,11 +2,17 @@
 This repository is to save and keep tracking of my processing examples. Here are some examples made it in class, and also creative work made it by me. 
 
 ## Agents floating
-Using agent class, and also PVector. 
+Description in construction. 
 
 ![alt-text](https://github.com/dnnxl/Processing-Notes/blob/master/Images/Agents%20floating.gif)
 
 ## Blur
-Using pixels and noise function. 
+Description in construction. 
 
 ![alt-text](https://github.com/dnnxl/Processing-Notes/blob/master/Images/Blur.gif)
+
+## Bound bound ball
+Description in construction. 
+
+![alt-text](https://github.com/dnnxl/Processing-Notes/blob/master/Images/Bound%20bound%20ball.gif)
+
