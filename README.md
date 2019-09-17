@@ -1,4 +1,4 @@
-# Processing Notes
+# Processing Notebook
 This repository is to save and keep tracking of my processing examples. Here are some examples made it in class, and also creative work made it by me. 
 
 ## Agents floating
