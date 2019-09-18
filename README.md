@@ -36,6 +36,15 @@ Description in construction.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Random%20walker.gif)
 
+## Cube agent	
+Description in construction. 
+
+![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Cube%20agent.gif)
+
+## Escape agents cube
+Description in construction. 
+
+![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Escape%20agents%20cube.gif)
 
 ## Author
 Danny Xie Li
