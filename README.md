@@ -46,5 +46,41 @@ Description in construction.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Escape%20agents%20cube.gif)
 
-## Author
+## Gaussian colorful circles
+Description in construction. 
+
+![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Gaussian%20colorful%20circles.gif)
+
+## Line ball spring
+Description in construction. 
+
+![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Line%20ball%20spring.gif)
+
+## Mountain terrain
+Description in construction. 
+
+![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Mountain%20terrain.gif)
+
+## Random No Fill ball
+Description in construction. 
+
+![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Random%20No%20Fill%20ball.gif)
+
+## Rectangle bounds paint
+Description in construction. 
+
+![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Rectangle%20bounds%20paint.gif)
+
+## Rectangle bounds
+Description in construction. 
+
+![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Rectangle%20bounds.gif)
+
+## Square of contrast
+Description in construction. 
+
+![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Square%20of%20contrast.gif)
+
+
+### Author
 Danny Xie Li
