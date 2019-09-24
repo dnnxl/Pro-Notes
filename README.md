@@ -11,6 +11,11 @@ Description in construction.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notes/blob/master/Images/Agents%20floating.gif)
 
+## Angular movement 2D
+Description in construction. 
+
+![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Angular%20movement%202D.gif)
+
 ## Blur
 Description in construction. 
 
