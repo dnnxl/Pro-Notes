@@ -62,6 +62,11 @@ Description in construction.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Escape%20agents%20cube.gif)
 
+## Force of gravity
+Description in construction. 
+
+![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Force%20of%20gravity.gif)
+
 ## Friction circle systems
 Description in construction. 
 
