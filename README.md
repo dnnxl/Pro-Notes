@@ -67,6 +67,11 @@ Description in construction.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Escape%20agents%20cube.gif)
 
+## Floaking agents
+Description in construction. 
+
+![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Floaking%20agents.gif)
+
 ## Flow fields agents
 Description in construction. 
 
