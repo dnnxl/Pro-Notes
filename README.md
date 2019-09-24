@@ -1,6 +1,16 @@
 # Processing Notebook
 This repository is to save and keep tracking of my processing examples. Here are some examples made it in class, and also creative work made it by me. 
 
+## Installation
+
+
+## Examples
+* [Dropwizard](https://github.com/dnnxl/Processing-Notebook/tree/master/Agents_floating) - Agents circle
+![alt-text](https://github.com/dnnxl/Processing-Notes/blob/master/Images/Agents%20floating.gif)
+
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+
 ## Agents circle
 Description in construction. 
 
