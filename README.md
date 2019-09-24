@@ -5,18 +5,18 @@ This repository is to save and keep tracking of my processing examples. Here are
 
 
 ## Examples
+Here are some examples of processing small projects. 
+
 
 ### Agent Floating
-* [Agent Floating](https://github.com/dnnxl/Processing-Notebook/tree/master/Agents_floating)
+Description in construction. 
 
 ![alt-text](https://github.com/dnnxl/Processing-Notes/blob/master/Images/Agents%20floating.gif)
 
-* [Agents circle](https://github.com/dnnxl/Processing-Notebook/tree/master/Angular_movement_2D)
+### Agent Circle
+Description in construction. 
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Agents%20circle.gif)
-
-
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Agents circle
 Description in construction. 
