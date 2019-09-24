@@ -56,6 +56,12 @@ Description in construction.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Escape%20agents%20cube.gif)
 
+## Friction circle systems
+Description in construction. 
+
+![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Friction%20circle%20system.gif)
+
+
 ## Gaussian colorful circles
 Description in construction. 
 
