@@ -5,11 +5,11 @@ This repository is to save and keep tracking of my processing examples. Here are
 
 
 ## Examples
-* [Agent Floating](https://github.com/dnnxl/Processing-Notebook/tree/master/Agents_floating) - Agents floating
+* [Agent Floating](https://github.com/dnnxl/Processing-Notebook/tree/master/Agents_floating)
 
 ![alt-text](https://github.com/dnnxl/Processing-Notes/blob/master/Images/Agents%20floating.gif)
 
-* [Agents circle](https://github.com/dnnxl/Processing-Notebook/tree/master/Angular_movement_2D) - Agents circle
+* [Agents circle](https://github.com/dnnxl/Processing-Notebook/tree/master/Angular_movement_2D)
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Agents%20circle.gif)
 
