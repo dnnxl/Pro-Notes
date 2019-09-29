@@ -2,7 +2,10 @@
 This repository is to save and keep tracking of my processing examples. Here are some examples made it in class, and also creative work made it by me. 
 
 ## Installation
-
+This is how we install the github examples in this repository. This are the following steps:
+* Click the button 'Clone or download'. 
+* Copy the link https://github.com/dnnxl/Processing-Notebook.git
+* And download the link.
 
 ## Examples
 Here are some examples of processing small projects. 
