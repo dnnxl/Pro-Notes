@@ -1,11 +1,15 @@
 # Processing Notebook
-This repository is to save and keep tracking of my processing examples. Here are some examples made it in class, and also creative work made it by me. 
+This repository is to save and keep tracking of my processing examples. Here are some examples made in simulation of natural systems class, and also creative work made it by me. 
 
 ## Installation
 This is how we install the github examples in this repository. This are the following steps:
 * Click the green button 'Clone or download' in the right side of the window. 
 * Copy the link https://github.com/dnnxl/Processing-Notebook.git or click download in the button.
 * And download the examples packages using the link.
+
+## Requirements
+* Processing software version 3.0.0 or greater
+* Processing libraries needed: PeasyCam, ControlP5 and GifMaker(not necessarily).
 
 ## Examples
 Here are some examples of processing small projects. Also some homeworks and practices made it in the simulation of natural systems.
