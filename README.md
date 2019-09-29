@@ -10,12 +10,6 @@ This is how we install the github examples in this repository. This are the foll
 ## Examples
 Here are some examples of processing small projects. Also some homeworks and practices made it in the simulation of natural systems.
 
-
-### Agent Floating
-Description in construction. 
-
-![alt-text](https://github.com/dnnxl/Processing-Notes/blob/master/Images/Agents%20floating.gif)
-
 ### Agent Circle
 Description in construction. 
 
