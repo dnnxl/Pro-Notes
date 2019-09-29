@@ -20,7 +20,7 @@ Here are some examples of processing small projects. Also some homeworks and pra
 - First create a class agent, then a system of agents(is represented as an arraylist of agents) of 10000 agents. 
 - In a random position in x and y dependent on the width and height of the window. 
 - Each agent has a initial velocity in a random 2D vector, with a coefficient of 0.01. 
-- To start the simulation it has to touch the space in the keyboard and you will see the simulation start. 
+- <kbd>SPACE</kbd> To start the simulation it has to touch the space in the keyboard and you will see the simulation start. 
 - It applies force of 0.09 to each draw method called.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Agents%20circle.gif)
