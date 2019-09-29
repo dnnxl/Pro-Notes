@@ -3,12 +3,12 @@ This repository is to save and keep tracking of my processing examples. Here are
 
 ## Installation
 This is how we install the github examples in this repository. This are the following steps:
-* Click the button 'Clone or download'. 
-* Copy the link https://github.com/dnnxl/Processing-Notebook.git
-* And download the link.
+* Click the green button 'Clone or download' in the right side of the window. 
+* Copy the link https://github.com/dnnxl/Processing-Notebook.git or click download in the button.
+* And download the examples packages using the link.
 
 ## Examples
-Here are some examples of processing small projects. 
+Here are some examples of processing small projects. Also some homeworks and practices made it in the simulation of natural systems.
 
 
 ### Agent Floating
