@@ -35,22 +35,27 @@ Here are some examples of processing small projects. Also some homeworks and pra
 ![alt-text](https://github.com/dnnxl/Processing-Notes/blob/master/Images/Agents%20floating.gif)
 
 ### 3. Angular movement 2D
-Description in construction. 
+- First create a class agent, then a system of agents(is represented as an arraylist of agents) of 100 agents. 
+- Each agent has a initial velocity in a random 2D vector, with a coefficient of 1 and also has a gravity of 0.01 in the axis y. 
+- Each agent is moved by the mouse provoking an angular movement.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Angular%20movement%202D.gif)
 
 ### 4. Blur
-Description in construction. 
+- Using loadPixels and updatePixels.
+- Apply the noise function to update the color of each pixels in the window.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notes/blob/master/Images/Blur.gif)
 
 ### 5. Bound bound ball
-Description in construction. 
+- First create a class Ball, then a system of Ball(is represented as an arraylist of balls).
+- Each ball is created by the mouse pressed taking the x and y of the mouse location.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notes/blob/master/Images/Bound%20bound%20ball.gif)
 
 ### 6. Broken TV
-Description in construction.
+- Using loadPixels and updatePixels.
+- Update the color of each pixels in the window using the random function.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notes/blob/master/Images/Broken%20TV.gif)
 
