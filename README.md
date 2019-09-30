@@ -1,8 +1,6 @@
 # Processing Notebook
 This repository is to save and keep tracking of my processing examples. Here are some examples made in simulation of natural systems class, and also creative work made it by me. 
 
-
-
 ## Installation
 This is how we install the github examples in this repository. This are the following steps:
 * Click the green button 'Clone or download' in the right side of the window. 
@@ -120,77 +118,93 @@ Here are some examples of processing small projects. Also some homeworks and pra
 - Classes agent, flowfield and spring.
 - Each flowfield show the path where the agents show move and also apply a vector force.
 
-
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Floaking%20agents.gif)
 
 ### 16. Flow fields agents
-Description in construction. 
+- Classes agent, flowfield and spring.
+- Each flowfield show the path where the agents show move and also apply a vector force.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Flow%20fields%20agents.gif)
 
 ### 17. Force of gravity
-Description in construction. 
+- Class agent and system of agents.
+- Using attract and repeler force to each each, there is two agent with this kind of force, represented by white.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Force%20of%20gravity.gif)
 
 ### 18. Friction circle systems
-Description in construction. 
+- Class agent and system of agents.
+- Using friction force.
+- <kbd>W</kbd> Apply force to up. 
+- <kbd>A</kbd> Apply force to left. 
+- <kbd>S</kbd> Apply force to down. 
+- <kbd>D</kbd> Apply force to right. 
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Friction%20circle%20system.gif)
 
 
 ### 19. Gaussian colorful circles
-Description in construction. 
+- Class circle and system of circles.
+- The size of the circle is generate by the random Gayssian.
+- Each circle is created by the event of a mouse pressed.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Gaussian%20colorful%20circles.gif)
 
 ### 20. Gravity force 3D
-Description in construction. 
+- Class agent and system of agents in 3D.
+- Using attract and repeler force to each each, there is two agent with this kind of force, represented by white.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Gravity%20force.gif)
 
 ### 21. Line ball spring
-Description in construction. 
+- Class agent and spring.
+- Using spring force.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Line%20ball%20spring.gif)
 
 ### 22. Map graphic
-Description in construction. 
+- Creating a graphic using noise function.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Map%20graphic.gif)
 
 ### 23. Mountain terrain
-Description in construction. 
+- Generating terrain using the triangle strip and noise function.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Mountain%20terrain.gif)
 
 ### 24. Mouse acceleration
-Description in construction. 
+- Class agent and system.
+- Total of 1000 agents.
+- All the agents chase the mouse position.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Mouse%20acceleration.gif)
 
 ### 25. Random No Fill ball
-Description in construction.
+- Class agent and system of agents.
+- Generate random agents using gaussian function.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Random%20No%20Fill%20ball.gif)
 
 ### 26. Rectangle bounds paint
-Description in construction. 
+- Rectangule bounds against the borders of the window.
+- Class Agent.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Rectangle%20bounds%20paint.gif)
 
 ### 27. Rectangle bounds
-Description in construction. 
+- Rectangule bounds against the borders of the window.
+- Class Agent.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Rectangle%20bounds.gif)
 
 ### 28. Route agents
-Description in construction. 
+- Draw a route for the agents to follow.
+- Each agent follow the behind agent.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Route%20agents.gif)
 
 ### 29. Square of contrast
-Description in construction. 
+- Create a background using pixels and noise function.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Square%20of%20contrast.gif)
 
