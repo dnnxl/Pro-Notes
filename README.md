@@ -209,5 +209,5 @@ Here are some examples of processing small projects. Also some homeworks and pra
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Square%20of%20contrast.gif)
 
 
-#### Author
+## Author
 Danny Xie Li
