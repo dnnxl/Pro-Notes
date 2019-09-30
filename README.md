@@ -21,12 +21,16 @@ Here are some examples of processing small projects. Also some homeworks and pra
 - In a random position in x and y dependent on the width and height of the window. 
 - Each agent has a initial velocity in a random 2D vector, with a coefficient of 0.01. 
 - <kbd>SPACE</kbd> To start the simulation it has to touch the space in the keyboard and you will see the simulation start. 
-- It applies force of 0.09 to each draw method called.
+- It applies force of 0.09 to each draw method called, it is divided in four cuadrant.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Agents%20circle.gif)
 
 ### 2. Agents floating
-Description in construction. 
+- First create a class agent, then a system of agents(is represented as an arraylist of agents) of 10000 agents. 
+- In a random position in x and y dependent on the width and height of the window. 
+- Each agent has a initial velocity in a random 2D vector, with a coefficient of 0.01. 
+- <kbd>SPACE</kbd> To start the simulation it has to touch the space in the keyboard and you will see the simulation start. 
+- It applies force of 0.09 to each draw method called, it is divided in four cuadrant it is different from Agent Circle.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notes/blob/master/Images/Agents%20floating.gif)
 
