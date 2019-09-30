@@ -67,9 +67,7 @@ Here are some examples of processing small projects. Also some homeworks and pra
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Cannon%20agents.gif)
 
 ### 8. Circle mass
-- Create a class of agent and also for the system of agents.
-- Each agent has a mass depending on his size.
-- Use gravity force to drag them.
+- Create a class of agent and also for the system of agents. Each agent has a mass depending on his size. Use gravity force to drag them.
 - <kbd>W</kbd> Apply force to up. 
 - <kbd>A</kbd> Apply force to left. 
 - <kbd>S</kbd> Apply force to down. 
