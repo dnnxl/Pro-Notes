@@ -60,12 +60,20 @@ Here are some examples of processing small projects. Also some homeworks and pra
 ![alt-text](https://github.com/dnnxl/Processing-Notes/blob/master/Images/Broken%20TV.gif)
 
 ### 7. Cannon agents
-Description in construction.
+- Create a class agent and cannon.
+- The cannon is moved by the mouse X and Y position.
+- The shooting method is controlled by the click of the mouse.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Cannon%20agents.gif)
 
 ### 8. Circle mass
-Description in construction. 
+- Create a class of agent and also for the system of agents.
+- Each agent has a mass depending on his size.
+- Use gravity force to drag them.
+- <kbd>W</kbd> Apply force to up. 
+- <kbd>A</kbd> Apply force to left. 
+- <kbd>S</kbd> Apply force to down. 
+- <kbd>D</kbd> Apply force to right. 
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Circle%20mass.gif)
 
