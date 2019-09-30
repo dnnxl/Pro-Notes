@@ -76,37 +76,50 @@ Here are some examples of processing small projects. Also some homeworks and pra
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Circle%20mass.gif)
 
 ### 9. Circle system run
-Description in construction. 
+- Class agent and system.
+- Each draw method create a new circle in the system along the old circle created.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notes/blob/master/Images/Circle%20system%20run.gif)
 
 ### 10. Circle system run 3D
-Description in construction. 
+- Class sphere and system.
+- Each draw method create a new sphere in the system along the old sphere created.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notes/blob/master/Images/Circle%20run%20system%203D.gif)
 
 ### 11. Random walker
-Description in construction. 
+- System of agents and a class agent.
+- While the mouse is pressed it creates a new RandomWalker.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Random%20walker.gif)
 
 ### 12. Cube agent	
-Description in construction. 
+- Class agent and agentSystem. 3D simulation. 
+- The agents is contained in a big box. Has a gravity force. 
+- There is a total of eight cuadrant, which each cuadrant applies a force of 0.12.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Cube%20agent.gif)
 
 ### 13. Drag Agents	
-Description in construction. 
+- Class agent and system of agents.
+- Using the drag force, simulating the water and the air space.
+- Each agent is created by the mouse pressed.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Drag%20Agents.gif)
 
 ### 14. Escape agents cube
-Description in construction. 
+- A box with agents inside, applies a force in the following directions and the agents get oit of the box.
+- <kbd>W</kbd> Apply force to up. 
+- <kbd>A</kbd> Apply force to left. 
+- <kbd>S</kbd> Apply force to down. 
+- <kbd>D</kbd> Apply force to right. 
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Escape%20agents%20cube.gif)
 
 ### 15. Floaking agents
-Description in construction. 
+- Classes agent, flowfield and spring.
+- Each flowfield show the path where the agents show move and also apply a vector force.
+
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Floaking%20agents.gif)
 
