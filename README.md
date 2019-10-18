@@ -39,32 +39,37 @@ Here are some examples of processing small projects. Also some homeworks and pra
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Angular%20movement%202D.gif)
 
-### 4. Blur
+### 4. Automaton
+- One description: Automaton
+
+![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Automaton.gif)
+
+### 5. Blur
 - Using loadPixels and updatePixels.
 - Apply the noise function to update the color of each pixels in the window.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notes/blob/master/Images/Blur.gif)
 
-### 5. Bound bound ball
+### 6. Bound bound ball
 - First create a class Ball, then a system of Ball(is represented as an arraylist of balls).
 - Each ball is created by the mouse pressed taking the x and y of the mouse location.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notes/blob/master/Images/Bound%20bound%20ball.gif)
 
-### 6. Broken TV
+### 7. Broken TV
 - Using loadPixels and updatePixels.
 - Update the color of each pixels in the window using the random function.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notes/blob/master/Images/Broken%20TV.gif)
 
-### 7. Cannon agents
+### 8. Cannon agents
 - Create a class agent and cannon.
 - The cannon is moved by the mouse X and Y position.
 - The shooting method is controlled by the click of the mouse.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Cannon%20agents.gif)
 
-### 8. Circle mass
+### 9. Circle mass
 - Create a class of agent and also for the system of agents. Each agent has a mass depending on his size. Use gravity force to drag them.
 - <kbd>W</kbd> Apply force to up. 
 - <kbd>A</kbd> Apply force to left. 
@@ -73,39 +78,39 @@ Here are some examples of processing small projects. Also some homeworks and pra
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Circle%20mass.gif)
 
-### 9. Circle system run
+### 10. Circle system run
 - Class agent and system.
 - Each draw method create a new circle in the system along the old circle created.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notes/blob/master/Images/Circle%20system%20run.gif)
 
-### 10. Circle system run 3D
+### 11. Circle system run 3D
 - Class sphere and system.
 - Each draw method create a new sphere in the system along the old sphere created.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notes/blob/master/Images/Circle%20run%20system%203D.gif)
 
-### 11. Random walker
+### 12. Random walker
 - System of agents and a class agent.
 - While the mouse is pressed it creates a new RandomWalker.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Random%20walker.gif)
 
-### 12. Cube agent	
+### 13. Cube agent	
 - Class agent and agentSystem. 3D simulation. 
 - The agents is contained in a big box. Has a gravity force. 
 - There is a total of eight cuadrant, which each cuadrant applies a force of 0.12.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Cube%20agent.gif)
 
-### 13. Drag Agents	
+### 14. Drag Agents	
 - Class agent and system of agents.
 - Using the drag force, simulating the water and the air space.
 - Each agent is created by the mouse pressed.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Drag%20Agents.gif)
 
-### 14. Escape agents cube
+### 15. Escape agents cube
 - A box with agents inside, applies a force in the following directions and the agents get oit of the box.
 - <kbd>W</kbd> Apply force to up. 
 - <kbd>A</kbd> Apply force to left. 
@@ -114,25 +119,25 @@ Here are some examples of processing small projects. Also some homeworks and pra
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Escape%20agents%20cube.gif)
 
-### 15. Floaking agents
+### 16. Floaking agents
 - Classes agent, flowfield and spring.
 - Each flowfield show the path where the agents show move and also apply a vector force.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Floaking%20agents.gif)
 
-### 16. Flow fields agents
+### 17. Flow fields agents
 - Classes agent, flowfield and spring.
 - Each flowfield show the path where the agents show move and also apply a vector force.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Flow%20fields%20agents.gif)
 
-### 17. Force of gravity
+### 18. Force of gravity
 - Class agent and system of agents.
 - Using attract and repeler force to each each, there is two agent with this kind of force, represented by white.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Force%20of%20gravity.gif)
 
-### 18. Friction circle systems
+### 19. Friction circle systems
 - Class agent and system of agents.
 - Using friction force.
 - <kbd>W</kbd> Apply force to up. 
@@ -143,72 +148,72 @@ Here are some examples of processing small projects. Also some homeworks and pra
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Friction%20circle%20system.gif)
 
 
-### 19. Gaussian colorful circles
+### 20. Gaussian colorful circles
 - Class circle and system of circles.
 - The size of the circle is generate by the random Gayssian.
 - Each circle is created by the event of a mouse pressed.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Gaussian%20colorful%20circles.gif)
 
-### 20. Gravity force 3D
+### 21. Gravity force 3D
 - Class agent and system of agents in 3D.
 - Using attract and repeler force to each each, there is two agent with this kind of force, represented by white.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Gravity%20force.gif)
 
-### 21. Line ball spring
+### 22. Line ball spring
 - Class agent and spring.
 - Using spring force.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Line%20ball%20spring.gif)
 
-### 22. Map graphic
+### 23. Map graphic
 - Creating a graphic using noise function.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Map%20graphic.gif)
 
-### 23. Mountain terrain
+### 24. Mountain terrain
 - Generating terrain using the triangle strip and noise function.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Mountain%20terrain.gif)
 
-### 24. Mouse acceleration
+### 25. Mouse acceleration
 - Class agent and system.
 - Total of 1000 agents.
 - All the agents chase the mouse position.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Mouse%20acceleration.gif)
 
-### 25. Random No Fill ball
+### 26. Random No Fill ball
 - Class agent and system of agents.
 - Generate random agents using gaussian function.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Random%20No%20Fill%20ball.gif)
 
-### 26. Random Colorful square
+### 27. Random Colorful square
 - Generate colorful square in random positions.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Random%20colorful%20square.gif)
 
-### 27. Rectangle bounds paint
+### 28. Rectangle bounds paint
 - Rectangule bounds against the borders of the window.
 - Class Agent.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Rectangle%20bounds%20paint.gif)
 
-### 28. Rectangle bounds
+### 29. Rectangle bounds
 - Rectangule bounds against the borders of the window.
 - Class Agent.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Rectangle%20bounds.gif)
 
-### 29. Route agents
+### 30. Route agents
 - Draw a route for the agents to follow.
 - Each agent follow the behind agent.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Route%20agents.gif)
 
-### 30. Square of contrast
+### 31. Square of contrast
 - Create a background using pixels and noise function.
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Square%20of%20contrast.gif)
@@ -216,3 +221,4 @@ Here are some examples of processing small projects. Also some homeworks and pra
 
 ## Author
 Danny Xie Li
+Engineering student in computer science
