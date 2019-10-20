@@ -218,6 +218,11 @@ Here are some examples of processing small projects. Also some homeworks and pra
 
 ![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/Square%20of%20contrast.gif)
 
+### 32. The doggi
+- Take a image and generate random points to colour the image.
+
+![alt-text](https://github.com/dnnxl/Processing-Notebook/blob/master/Images/The%20doggi.gif)
+
 
 ## Author
 Danny Xie Li
